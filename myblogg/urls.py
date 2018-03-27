@@ -4,6 +4,6 @@ from myblogg import views
 
 
 urlpatterns= [
-
-	url('^$', views.index, name= "index"),
+  url('^$', views.index, name= "index"),
+  url('^help/$', views.help, name= "help"),
 ]
