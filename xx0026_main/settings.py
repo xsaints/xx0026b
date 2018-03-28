@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     #my apps
     'xx0026_app001',
     'myblogg',
+    'mynotebook',
 
 ]
 

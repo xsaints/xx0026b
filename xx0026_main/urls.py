@@ -22,4 +22,6 @@ urlpatterns = [
     path('xx0026_app001/', include('xx0026_app001.urls')),
 
     path('myblogg/', include('myblogg.urls')),
+
+    path('mynotebook/', include('mynotebook.urls')),    
 ]
